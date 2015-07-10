@@ -53,8 +53,7 @@
     "pretest": "ember build",
     "test": "bin/run-tests.js",
     "start": "ember test --server",
-    "build": "ember build",
-    "postinstall": "ember build -prod"
+    "build": "ember build"
   },
   "optionalDependencies": {}
 }
