@@ -18,3 +18,5 @@ spec/qunit_spec.js
 
 dist
 bower_components
+
+.node-version
